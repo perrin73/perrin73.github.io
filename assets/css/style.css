@@ -1,0 +1,20 @@
+:root{
+    scroll-behavior: smooth;
+}
+.home-img{
+    padding-left: 3em;
+    padding-right: 3em;
+}
+.text-blue{
+    color: dodgerblue;
+}
+.bg-blue{
+    background: dodgerblue;
+    border-radius: 50%;
+}
+@media screen and (min-width: 768px){
+    .home-img{
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+}
